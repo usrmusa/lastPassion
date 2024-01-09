@@ -1,0 +1,35 @@
+/* styles.css */
+body {
+    text-align: center;
+    padding: 150px;
+    background-image: url('img/background-white.jpg'); /* Replace 'your-background-image.jpg' with the actual file path or URL of your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+body {
+    font: 20px Helvetica, sans-serif;
+    color: #333;
+}
+
+article {
+    display: block;
+    text-align: left;
+    max-width: 650px; /* Changed 'width' to 'max-width' for responsiveness */
+    margin: 0 auto;
+}
+
+a {
+    color: #dc8100;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #333;
+    text-decoration: none;
+}
